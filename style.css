@@ -1,0 +1,34 @@
+
+/** Skile section desin start here */
+
+#skile-section{
+    display: flex;
+    width: 100%;
+    height: auto;
+    margin: auto;
+   
+   background-color: #F65C78;
+}
+.box{
+    margin: 20px;
+    width: 250px;
+   font-size: 20px;
+    border: 2px solid green;
+    overflow:hidden;
+    transition:1.5s linear;
+    text-align: center;
+}
+.box:hover{
+   background-color: coral;
+}
+
+#facebok_icon{
+    background-color:#342EAD;
+    padding: 10px;
+    width: 30px;
+    margin: 10px;
+    color: white;
+    border-radius: 5px;
+}
+
+/** Skile section desin end here */
